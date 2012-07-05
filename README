@@ -3,6 +3,10 @@ Simple API wrapper for Zonomi DNS service.
 See source for documentation, class resides within __init__.py
 All functions contain inline documentation to get you started, most are fairly simple.
 
+findip.py includes a simple function to find your public IP address, useful when using
+on any server where the IP address is likely to change. Could be used with cron to setup
+a dynamic IP client.
+
 Not a complete solution, will add to it as the need arises, feel free to fork.
 
 See https://zonomi.com/app/dns/dyndns.jsp

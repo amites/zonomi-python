@@ -1,3 +1,9 @@
 Simple API wrapper for Zonomi DNS service.
 
+See source for documentation, class resides within __init__.py
+All functions contain inline documentation to get you started, most are fairly simple.
+
 Not a complete solution, will add to it as the need arises, feel free to fork.
+
+See https://zonomi.com/app/dns/dyndns.jsp
+for more available functions.
